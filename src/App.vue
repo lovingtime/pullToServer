@@ -1,5 +1,4 @@
 <template>
-<<<<<<< HEAD
   <div id="app" class="route room">
     <img src="./assets/logo.png">
     <router-view/>
