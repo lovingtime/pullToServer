@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="route room aaa">
+  <div id="app" class="route">
     <img src="./assets/logo.png">
     <router-view/>
   </div>
