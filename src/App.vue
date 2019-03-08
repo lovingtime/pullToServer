@@ -1,6 +1,7 @@
 <template>
   <div id="app" class="route room hello">
     <img src="./assets/logo.png">
+    <p>dev branch</p>
     <router-view/>
   </div>
 </template>
